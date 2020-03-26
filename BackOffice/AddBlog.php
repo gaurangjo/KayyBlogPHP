@@ -36,7 +36,6 @@
             </ol>
 
             <!-- Page Content -->
-            <form method="post" action="InsertBlog.php">
             <form method="post">
             <h6 class="alert alert-dark"> Add New Blog 
             <input type="submit" value="Save" class="btn btn-success col-lg-2 offset-1" />
